@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "okulveritabanı": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
